@@ -7,7 +7,9 @@
 
 Contact info:
 - email: muracks.max@gmail.com
+- linkedin: [Maksym Durytskyi](https://www.linkedin.com/in/maksym-durytskyi/)
 - telegram: @maxblyskavka
+  
 
 
 
