@@ -1,5 +1,16 @@
 ## Hi there 👋
 
+- My friends call me Max
+- 19 y.o.
+- Based in Warsaw, Poland
+- 3rd-year CS student at PJATK
+
+Contact info:
+- email: muracks.max@gmail.com
+- telegram: @maxblyskavka
+
+
+
 <!--
 **some1less/some1less** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
