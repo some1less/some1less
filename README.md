@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- My friends call me Max
+- Max
 - 19 y.o.
 - Based in Warsaw, Poland
 - 3rd-year CS student at PJATK
