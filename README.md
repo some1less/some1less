@@ -1,4 +1,4 @@
-### Welcome strangers, I'm Max 👋
+### What's up strangers, I'm Max 👋
 
 I'm focused on integrating AI and building reliable systems.
 
